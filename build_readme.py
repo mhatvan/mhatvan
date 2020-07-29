@@ -3,6 +3,7 @@ import json
 import pathlib
 import re
 import os
+import time
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -12,7 +13,7 @@ def fetch_blog_entries():
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["published"],
+            "published":  time.strftime('%Y-%m-%d', entry["published_parsed"]),
         }
         for entry in entries
     ]
