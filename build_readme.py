@@ -32,7 +32,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
 
-    entries = fetch_blog_entries()[:4]
+    entries = fetch_blog_entries()[:5]
     print(entries)
 
     entries_md = "\n".join(
