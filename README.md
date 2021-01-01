@@ -36,4 +36,4 @@ Regularly posting new articles on my [blog](https://markushatvan.com/blog) about
 - [Twitter](https://twitter.com/HatvanMarkus)
 - [Reddit](https://www.reddit.com/user/chimpcmder)
 
-https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmhatvan%2Fmhatvan
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmhatvan%2Fmhatvan" alt="Hits">
