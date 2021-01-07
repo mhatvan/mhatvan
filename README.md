@@ -21,11 +21,11 @@ Regularly posting new articles on my [blog](https://markushatvan.com/blog) about
 ## Latest articles from my blog
 
 <!-- blog starts -->
+- [How To Win Your First Clients as a Freelance Web Developer](https://markushatvan.com/blog/how-to-win-your-first-clients-as-a-freelance-web-developer) - 2021-01-06
 - [Reclaim Your Data Privacy From Big Tech With the Best Privacy-Focused Alternatives](https://markushatvan.com/blog/reclaim-your-data-privacy-from-big-tech-with-the-best-privacy-focused-alternatives) - 2020-11-08
 - [8 Common Web Development Mistakes and How to Avoid Them](https://markushatvan.com/blog/8-common-web-development-mistakes-and-how-to-avoid-them) - 2020-10-19
 - [Why You Should Start Contributing to Open Source Software Right Now](https://markushatvan.com/blog/why-you-should-start-contributing-to-open-source-software-right-now) - 2020-09-10
 - [10 Reasons Why I Recommend Svelte To Every New Web Developer](https://markushatvan.com/blog/10-reasons-why-i-recommend-svelte-to-every-new-web-developer) - 2020-08-31
-- [The Beer Bucket List For The Aspiring Connoisseur](https://markushatvan.com/blog/the-beer-bucket-list-for-the-aspiring-connoisseur) - 2020-08-05
 <!-- blog ends -->
 
 ## Connect with me on these social media channels
